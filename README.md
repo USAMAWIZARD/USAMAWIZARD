@@ -1,2 +1,2 @@
-- name: Profile Readme Stats
-  uses: teoxoy/profile-readme-stats@v1.2
+[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+
